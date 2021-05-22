@@ -1,4 +1,4 @@
-# SupermarketApplication
+# Super Market App
 Trakya University 2nd grade project
 
 **Projenin Amacı:**
